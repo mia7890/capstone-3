@@ -1,0 +1,32 @@
+[
+  {
+    "id": "admin-001",
+    "name": "Mr. Ventura",
+    "email": "ventura@loopplace.ph",
+    "role": "admin",
+    "status": "active",
+    "accessCode": "000000",
+    "createdAt": "2026-10-18T11:09:16.863Z",
+    "approvedAt": "2026-10-18T11:09:16.863Z"
+  },
+  {
+    "id": "staff-001",
+    "name": "Admin Carla",
+    "email": "carla@loopplace.ph",
+    "role": "staff",
+    "status": "active",
+    "accessCode": "111111",
+    "createdAt": "2026-10-18T11:09:16.863Z",
+    "approvedAt": "2026-10-18T11:09:16.863Z"
+  },
+  {
+    "id": "staff-002",
+    "name": "Admin Jomar",
+    "email": "jomar@loopplace.ph",
+    "role": "staff",
+    "status": "active",
+    "accessCode": "222222",
+    "createdAt": "2026-10-18T11:09:16.863Z",
+    "approvedAt": "2026-10-18T11:09:16.863Z"
+  }
+]
